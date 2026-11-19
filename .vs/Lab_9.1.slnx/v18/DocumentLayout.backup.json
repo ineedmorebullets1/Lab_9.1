@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9D441A-933F-4726-A579-BEBA95B418C8}|Lab_9.1\\Lab_9.1.vcxproj|C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\Lab_9.1\\Lab_9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD9D441A-933F-4726-A579-BEBA95B418C8}|Lab_9.1\\Lab_9.1.vcxproj|solutionrelative:Lab_9.1\\Lab_9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "var.cpp",
+              "DocumentMoniker": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\var.cpp",
+              "RelativeDocumentMoniker": "var.cpp",
+              "ToolTip": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\var.cpp",
+              "RelativeToolTip": "var.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T22:06:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sum.cpp",
+              "DocumentMoniker": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\sum.cpp",
+              "RelativeDocumentMoniker": "sum.cpp",
+              "ToolTip": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\sum.cpp",
+              "RelativeToolTip": "sum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T22:06:29.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dod.cpp",
+              "DocumentMoniker": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\dod.cpp",
+              "RelativeDocumentMoniker": "dod.cpp",
+              "ToolTip": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\dod.cpp",
+              "RelativeToolTip": "dod.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T22:06:23.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T22:00:43.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab_9.1.cpp",
+              "DocumentMoniker": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\Lab_9.1\\Lab_9.1.cpp",
+              "RelativeDocumentMoniker": "Lab_9.1\\Lab_9.1.cpp",
+              "ToolTip": "C:\\Users\\aizen\\Documents\\lab c\u002B\u002B\\Lab_9.1\\Lab_9.1\\Lab_9.1.cpp",
+              "RelativeToolTip": "Lab_9.1\\Lab_9.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T21:31:50.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

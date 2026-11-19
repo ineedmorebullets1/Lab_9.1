@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aizen\\documents\\lab c++\\lab_9.1\\dod.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\aizen\\documents\\lab c++\\lab_9.1\\dod.h",
+            "c:\\users\\aizen\\documents\\lab c++\\lab_9.1\\var.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
